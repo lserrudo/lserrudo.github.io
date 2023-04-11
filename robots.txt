@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lserrudo.github.io/lserrudo//sitemap.xml
+Sitemap: https://lserrudo.github.io/sitemap.xml
