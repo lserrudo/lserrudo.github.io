@@ -23,7 +23,7 @@ I am currently finishing my MSc in economics at the University of Chile, where I
 
 I'm currently working as RA in the [Millennium Nucleus on The Evolution of Work (MNEW)](https://www.m-new.org/) at Catholic University of Chile Economics Department. I provide assistance to professors [Pablo Egaña del-Sol](https://pabloeganadelsol.com/) and [Alejandro Micco](https://fen.uchile.cl/es/academicos-investigacion/directorio-de-academicos/detalle/alejandro-micco). My current research focuses on labor economics, automation of jobs and new labor dynamics in developing economies.
 
-I have worked on economic development and macroeconomics issues in research institutes in Chile and Bolivia, and have conducted consulting work for various multilateral organizations such as the Inter-American Development Bank (IDB), the Andean Development Corporation (CAF), the Economic Commission for Latin America and the Caribbean (ECLAC), and private entities in Chile. Specifically, I have experience in measuring social progress in various countries using survey, census, and administrative data, evaluating the impact of trade policies, debt sustainability, among other topics.
+I have worked on economic development and macroeconomics issues in research institutes in Chile and Bolivia, and have conducted consulting work for various multilateral organizations such as the Inter-American Development Bank (IDB), the Andean Development Corporation (CAF), the Economic Commission for Latin America and the Caribbean (ECLAC), and private entities in Chile.
 
 My primary research interests are Labor Economics, Development Economics, Macroeconomics and Applied econometrics.
 
