@@ -27,4 +27,4 @@ I have worked on economic development and macroeconomics issues in research inst
 
 My primary research interests are Labor Economics, Development Economics, Macroeconomics and Applied econometrics.
 
-I'm author of Fake Oxymoron blog, and persuing the draft in the bolivian national basketball team.
+I'm author of Oxymoron't blog, and persuing the draft in the bolivian national basketball team.
