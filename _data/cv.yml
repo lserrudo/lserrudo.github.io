@@ -78,9 +78,26 @@
       description:
 	- Econometrics, Macroeconomics and Microeconomics.
  
-        - title: Assistant - Country Economist Office
-      institution: Development Bank of Latin America (CAF)
-      year: 2016 - 2017
-      description:
-	- Direction of Macroeconomics Studies
+    - title: Open Source Projects
+      type: time_table
+      contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.    
 
+    - title: Academic Interests
+      type: nested_list
+      contents:
+    - title: Development Economics
+      items: 
+        - Automation of jobs.
+        - Labor markets dynamics.
+    - title: Macroeconomics.
+      items:
+        - Growth, cycles and economic policy.
+        - Unemployment.
+
+    - title: Other Interests
+      type: list
+      contents:
+    - <u>Hobbies:</u> Basketball, Spinetta.
