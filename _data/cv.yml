@@ -2,33 +2,34 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Luis Fernando Serrudo Lázaro
+    - name: Citizenship
+      value: Bolivian
     - name: Languages
-      value: English, German
+      value: Sapnish, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc. Economics.
+      institution: University of Chile
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: “The socioeconomic gap in parental responses to school disadvantage”.
+        - Supervisor: PhD. Esteban Puentes | Regression Discontinuity Design using Panel Microdata.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: B.S. Economics.
+      institution: Bolivian Catholic University
+      year: 2018
+    - title: Graduate Certificate in Quantitative Methods for Economic Analysis
+      institution: Bolivian Private University
+      year: 2018
 
-- title: Experience
+
+- title: Experience - Previous Appointments
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
