@@ -33,7 +33,7 @@
   type: time_table
   contents:
     - title: RA-Consultant - Country Economist Office
-      institution: [Inter American Development Bank (IADB)](https://www.iadb.org/en)
+      institution: Inter American Development Bank (IADB)
       year: 2022
       description:
         - Description 1.
@@ -43,7 +43,7 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Research Assistant
-      institution: [Millenium Nucleus on the Evolution of Work (M-NEW)](https://www.m-new.org/our-team)
+      institution: Millenium Nucleus on the Evolution of Work (M-NEW)
       year: 2021-current
       description:
         - Description 1.
