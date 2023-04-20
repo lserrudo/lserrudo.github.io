@@ -15,12 +15,12 @@
       institution: University of Chile
       year: 2023
       description:
-        - Thesis: “The socioeconomic gap in parental responses to school disadvantage”.
-        - Supervisor: PhD. Esteban Puentes | Regression Discontinuity Design using Panel Microdata.
-        - title: Description 3.
+        - Thesis: The socioeconomic gap in parental responses to school disadvantage.
+        - Supervisor: PhD. Esteban Puentes.
+        - title: Methods.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Regression Discontinuity Design.
+            - using Panel Microdata.
     - title: B.S. Economics.
       institution: Bolivian Catholic University
       year: 2018
