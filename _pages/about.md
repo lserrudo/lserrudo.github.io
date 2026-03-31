@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc in Economics at University of Chile. <a href='https://www.m-new.org/our-team'> RA at M-NEW</a>.
+subtitle: Economist at . <a href='[https://www.m-new.org/our-team](https://www.iadb.org/en)'> Interamerican Development Bank</a>.
 
 profile:
   align: right
