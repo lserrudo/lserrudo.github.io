@@ -1,5 +1,5 @@
 ---
-layout: CV (download PDF at right)
+layout: cv
 permalink: /cv/
 title: cv
 nav: true
