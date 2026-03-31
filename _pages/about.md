@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 My work focuses on macroeconomic surveillance, financial programming, evidence-based research and policy analysis to support country engagement and policy dialogue. I contribute to the strategic prioritization of operations through country diagnostics, portfolio analysis, and policy dialogue with government authorities.
 
-I combine microeconometric analysis—using administrative, census, and survey data—with macroeconomic frameworks to generate policy-relevant evidence. This includes developing economic and social indicators, applied research and analytical inputs to inform decision-making in multilateral contexts.
+I combine microeconometric analysis with macroeconomic frameworks to generate policy-relevant evidence. This includes developing economic and social indicators, applied research and analytical inputs to inform decision-making in multilateral contexts.
 
 My research covers financial inclusion, automation and labor markets in developing economies, climate vulnerability in the Andean region, and international trade analysis using input-output frameworks, with experience across multiple countries in Latin America.
 
