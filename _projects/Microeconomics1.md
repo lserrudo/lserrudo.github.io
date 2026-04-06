@@ -9,8 +9,8 @@ category: teaching
 
 ### Material del curso
 
-- [Sylabus](/assets/pdf/Plan de Asignatura I-2026.pdf)
+- [Sylabus](/assets/pdf/MicroI-2026.pdf)
 - [Problem Set 1](/assets/pdf/Consumer_PS1.pdf)
 - [Problem Set 2](/assets/pdf/Consumer_PS2.pdf)
 - [First Term](/assets/pdf/ExamI.pdf)
-- [First Term Solutions](/assets/pdf/ExamI_sol.pdf)
+- [First Term Solutions](/assets/pdf/ExamI_Sol.pdf)
