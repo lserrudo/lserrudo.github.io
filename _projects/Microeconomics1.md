@@ -7,14 +7,14 @@ importance: 1
 category: teaching
 ---
 
-# Material del curso
-
 ## Sylabus
 - [Sylabus](/assets/pdf/MicroI-2026.pdf)
+
 ## Problem Sets
 ### Consumer Theory
 - [Problem Set 1](/assets/pdf/Consumer_PS1.pdf)
 - [Problem Set 2](/assets/pdf/Consumer_PS2.pdf)
+
 ## Exams
 - [First Term](/assets/pdf/ExamI.pdf)
 - [First Term Solutions](/assets/pdf/ExamI_Sol.pdf)
