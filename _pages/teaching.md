@@ -10,9 +10,9 @@ display_categories: [teaching]
 
 
 <div class="projects">
-  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% assign teaching_projects = site.projects | where: "category", "teaching" | sort: "importance" %}
   <div class="grid">
-    {% for project in sorted_projects %}
+    {% for project in teaching_projects %}
       {% include projects.html %}
     {% endfor %}
   </div>
