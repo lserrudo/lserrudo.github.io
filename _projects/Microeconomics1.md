@@ -14,3 +14,5 @@ category: teaching
 - [Problem Set 2](/assets/pdf/Consumer_PS2.pdf)
 - [First Term](/assets/pdf/ExamI.pdf)
 - [First Term Solutions](/assets/pdf/ExamI_Sol.pdf)
+- [First Term 2nd chance](/assets/pdf/ExamI_rec.pdf)
+- [First Term 2nd chance Solutions](/assets/pdf/ExamI_rec_sol.pdf)
