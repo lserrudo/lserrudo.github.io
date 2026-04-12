@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Economist at <a href='[https://www.m-new.org/our-team](https://www.iadb.org/en)'> Interamerican Development Bank</a>.
+subtitle: Economist at <a href='[https://www.iadb.org/en](https://www.iadb.org/en)'> Interamerican Development Bank</a>.
 
 profile:
   align: right
