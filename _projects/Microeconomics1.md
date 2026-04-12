@@ -14,6 +14,8 @@ category: teaching
 #### Consumer Theory
 - [Problem Set 1](/assets/pdf/Consumer_PS1.pdf)
 - [Problem Set 2](/assets/pdf/Consumer_PS2.pdf)
+#### Producer Theory
+- [Problem Set 3](/assets/pdf/Consumer_PS2.pdf)
 
 ## Exams
 - [First Term](/assets/pdf/ExamI.pdf)
