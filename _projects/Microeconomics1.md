@@ -17,6 +17,7 @@ category: teaching
 
 #### Producer Theory
 - [Problem Set 3](/assets/pdf/Producer_PS1.pdf)
+- [Problem Set 4](/assets/pdf/Producer_PS2.pdf)
 
 ## Exams
 - [First Term](/assets/pdf/ExamI.pdf)
