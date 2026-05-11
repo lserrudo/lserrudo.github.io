@@ -22,10 +22,12 @@ category: teaching
 ## Exams
 - [First Term](/assets/pdf/ExamI.pdf)
 - [First Term 2nd chance](/assets/pdf/ExamI_rec.pdf)
+- [Second Term](/assets/pdf/ExamII.pdf)
 
 ## Solutions
 - [First Term Solutions](/assets/pdf/ExamI_Sol.pdf)
 - [First Term 2nd chance Solutions](/assets/pdf/ExamI_rec_sol.pdf)
+- [Second Term Solutions](/assets/pdf/ExamII_Sol.pdf)
 
 ## Student evaluation status
 - [First Term Status](/assets/pdf/FT_Approved.pdf)
