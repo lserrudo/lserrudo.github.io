@@ -23,6 +23,7 @@ category: teaching
 - [First Term](/assets/pdf/ExamI.pdf)
 - [First Term 2nd chance](/assets/pdf/ExamI_rec.pdf)
 - [Second Term](/assets/pdf/ExamII.pdf)
+- [Second Term 2nd chance](/assets/pdf/ExamII_rec.pdf)
 
 ## Solutions
 - [First Term Solutions](/assets/pdf/ExamI_Sol.pdf)
