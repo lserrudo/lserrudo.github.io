@@ -19,7 +19,7 @@ category: teaching
 - [Problem Set 3](/assets/pdf/Producer_PS1.pdf)
 - [Problem Set 4](/assets/pdf/Producer_PS2.pdf)
 
-### Markets
+#### Markets
 - [Problem Set 5](/assets/pdf/Markets_PS.pdf)
 
 ## Exams
