@@ -35,6 +35,9 @@ category: teaching
 - [Second Term Solutions](/assets/pdf/ExamII_Sol.pdf)
 - [Second Term 2nd chance Solutions](/assets/pdf/ExamII_rec_sol.pdf)
 
+## Presentation
+- [Markets](/assets/pdf/Markets.pdf)
+
 ## Student evaluation status
 - [First Term Status](/assets/pdf/FT_Approved.pdf)
 - [Second Term Status](/assets/pdf/ST_Approved.pdf)
