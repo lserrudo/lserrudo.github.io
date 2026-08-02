@@ -7,7 +7,7 @@ subtitle: Economist at <a href="https://www.iadb.org/en"> Inter-American Develop
 profile:
   align: right
   image: prof_pic.jpg
-  image_width: 220
+  image_width: 200
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
