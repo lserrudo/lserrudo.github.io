@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Micro 1
-description: Microeconomía I ECO-121 (UCB)
+description: Microeconomía I ECO-121 (UCB) I-2026
 img: /assets/img/micro1.jpg
 importance: 1
 category: teaching
