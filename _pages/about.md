@@ -24,4 +24,4 @@ I conduct macroeconomic analysis and applied research to support country engagem
 
 My research lies at the intersection of development effectiveness, macroeconomic policy, and applied econometrics. I am particularly interested in social progress, productivity, financial inclusion, institutions, automation in labor markets, and the use of rigorous empirical methods to generate evidence for public policy.
 
-I also teach undergraduate Microeconomics at the Bolivian Catholic University and previously served as Executive Editor of [Estudios de Economía](https://estudiosdeeconomia.uchile.cl/). I earned an MSc in Economics from the University of Chile.
+I also teach undergraduate [Microeconomics](https://lserrudo.github.io/teaching/) at the Bolivian Catholic University and previously served as Executive Editor of [Estudios de Economía](https://estudiosdeeconomia.uchile.cl/). I earned an MSc in Economics from the University of Chile.
