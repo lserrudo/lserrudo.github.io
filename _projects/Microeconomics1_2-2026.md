@@ -8,7 +8,7 @@ category: teaching
 ---
 
 ## Sylabus
-- [Sylabus](/assets/pdf/MicroI-2026.pdf)
+- [Sylabus](/assets/pdf/MicroI_2-2026.pdf)
 
 ## Problem Sets
 #### Consumer Theory
