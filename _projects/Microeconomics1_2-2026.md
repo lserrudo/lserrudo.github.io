@@ -10,6 +10,11 @@ category: teaching
 ## Sylabus
 - [Sylabus](/assets/pdf/MicroI_2-2026.pdf)
 
+## Lectures
+- [Lecture1](/assets/pdf/Lectures/M1_Micro.pdf)
+- [Lecture8](/assets/pdf/Lectures/M8_Micro.pdf)
+- [Lecture9](/assets/pdf/Lectures/M9_Micro.pdf)
+
 ## Problem Sets
 #### Consumer Theory
 - [Problem Set 1](/assets/pdf/Consumer_PS1.pdf)
