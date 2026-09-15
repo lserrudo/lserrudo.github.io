@@ -14,6 +14,7 @@ category: teaching
 - [Lecture1](/assets/pdf/Lectures/C1_Micro.pdf)
 - [Lecture8](/assets/pdf/Lectures/C8_Micro.pdf)
 - [Lecture9](/assets/pdf/Lectures/C9_Micro.pdf)
+- [Lecture12](/assets/pdf/Lectures/C12_Micro.pdf)
 
 ## Problem Sets
 #### Consumer Theory
