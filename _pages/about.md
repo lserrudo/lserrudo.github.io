@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I conduct macroeconomic analysis and applied research to support country engagement and evidence-based policymaking. My work contributes to macroeconomic surveillance, country diagnostics, and analytical reports that inform policy dialogue and development priorities, including the Bolivia Country Strategy (2026–2030).
+I conduct macroeconomic analysis and applied research to support country engagement and evidence-based policymaking. My work contributes to macroeconomic surveillance, country diagnostics, and analytical reports that inform policy dialogue and development priorities, including the [Bolivia Country Strategy (2026–2030)]([https://estudiosdeeconomia.uchile.cl/](https://ezws.iadb.org/getdocument?docnum=EZIDB0000171-662917025-5296)).
 
 My research lies at the intersection of development effectiveness, macroeconomic policy, and applied econometrics. I am particularly interested in welfare measurement, fiscal sustainability, financial inclusion, automation in labor markets, and the use of rigorous empirical methods to generate evidence for public policy.
 
