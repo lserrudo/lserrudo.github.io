@@ -29,10 +29,10 @@ category: teaching
 - [Problem Set 5](/assets/pdf/Markets_PS.pdf)
 
 ## Exams
-
+- [Fisrt Term](/assets/pdf/Exams2-2026/ExamI.pdf)
 
 ## Solutions
-
+- [Fisrt Term Solutions](/assets/pdf/Exams2-2026/ExamI_Sol.pdf)
 
 ## Student evaluation status
 - [First Term Status](/assets/pdf/FT_Approved.pdf)
