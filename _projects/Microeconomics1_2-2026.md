@@ -35,5 +35,4 @@ category: teaching
 
 
 ## Student evaluation status
-- [First Term Status](/assets/pdf/FT_Approved.pdf)
-- [Second Term Status](/assets/pdf/ST_Approved.pdf)
+- [First Term Status](/assets/pdf/Exams2-2026/Notas.pdf)
