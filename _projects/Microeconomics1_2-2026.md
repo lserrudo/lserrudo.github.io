@@ -34,7 +34,7 @@ category: teaching
 
 ## Solutions
 - [First Term Solutions](/assets/pdf/Exams2-2026/ExamI_Sol.pdf)
-- [First Term 2nd chance Solutions](/assets/pdf/Exams2-2026/ExamI__rec_Sol.pdf)
+- [First Term 2nd chance Solutions](/assets/pdf/Exams2-2026/ExamI_rec_Sol.pdf)
 
 ## Student evaluation status
 - [First Term Status](/assets/pdf/Exams2-2026/Notas.pdf)
