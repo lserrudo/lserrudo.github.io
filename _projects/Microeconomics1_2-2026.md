@@ -39,4 +39,4 @@ category: teaching
 - [Second Term Solutions](/assets/pdf/Exams2-2026/ExamII_Sol.pdf)
   
 ## Student evaluation status
-- [First Term Status](/assets/pdf/Exams2-2026/Notas.pdf)
+- [Student Status](/assets/pdf/Exams2-2026/Notas.pdf)
