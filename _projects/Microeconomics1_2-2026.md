@@ -31,10 +31,12 @@ category: teaching
 ## Exams
 - [First Term](/assets/pdf/Exams2-2026/ExamI.pdf)
 - [First Term 2nd chance](/assets/pdf/Exams2-2026/ExamI_rec.pdf)
+- [Second Term](/assets/pdf/Exams2-2026/ExamII.pdf)
 
 ## Solutions
 - [First Term Solutions](/assets/pdf/Exams2-2026/ExamI_Sol.pdf)
 - [First Term 2nd chance Solutions](/assets/pdf/Exams2-2026/ExamI_rec_Sol.pdf)
-
+- [Second Term Solutions](/assets/pdf/Exams2-2026/ExamII_Sol.pdf)
+  
 ## Student evaluation status
 - [First Term Status](/assets/pdf/Exams2-2026/Notas.pdf)
